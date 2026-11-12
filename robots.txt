@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amanat.mikro.pk/sitemap.xml
